@@ -1,13 +1,8 @@
-# O'zbek tilida zamonaviy JavaScript darsligi
+# O'zbek tilida JavaScript darsligi
 ## Salom!
 
 Ushbu darslik ingliz tilidan tarjima qilinmoqda. Darslinki ingliz tili vesriyasi <https://javascript.info>-da joylashgan.
 Tarjimamizda xatolar mavjud bo'lishi mumkin, shunda ularni aniqlasangiz ushbu repozitoriyning Issues[https://github.com/javascript-tutorial/uz.javascript.info/issues] bo'limida bizga murojaat qilishingizni so'raymiz. 
-
-## Tarjimalar
-
-Biz darslikni turli tillarda taqdim etishni xohlaymiz, shuning uchun, iltimos bizga o'z tilingizga tarjima qilishga yordam bering.
-Batafsil ma'lumot uchun quyidagi havolaga o'ting <https://github.com/javascript-tutorial/translate>.
 
 ## Hissalar
 
@@ -34,5 +29,3 @@ Materialning turi papka ichidagi fayl bilan belgilanadi:
 Bu fayllarning har biri `# Asosiy sarlavhadan` boshlanadi.
 
 E'tiboringiz uchun rahmat!
-Elbek @hakimbekovelbek
-Oybek
